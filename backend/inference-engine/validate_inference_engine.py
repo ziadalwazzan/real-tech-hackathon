@@ -35,7 +35,7 @@ def main() -> None:
     results = rent_analysis.top_cities_with_better_return_at_risk("Denver (CO)")
     print("Top 3:", results)
 
-    monthly = rent_analysis.get_mean_monthly_prices("Austin (TX)")
+    monthly = rent_analysis.get_mean_monthly_prices("austin (CO)")
     print(monthly)
 
 
