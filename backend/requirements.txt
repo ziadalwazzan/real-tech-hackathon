@@ -1,0 +1,14 @@
+# app
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+
+# inference-engine (notebooks)
+ipykernel
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
