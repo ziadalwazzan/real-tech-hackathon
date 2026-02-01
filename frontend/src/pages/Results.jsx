@@ -186,7 +186,7 @@ export default function Results() {
                   <div className="flex items-center justify-between">
                     <span className={city.isCurrent ? "text-white/70" : "text-slate-500"}>
                       Risk factor %
-                    </span>x
+                    </span>
                     <span className="font-semibold">{city.risk}</span>
                   </div>
                   <div className="flex items-center justify-between">
